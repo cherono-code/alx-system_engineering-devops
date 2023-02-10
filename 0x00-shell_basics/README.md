@@ -1,2 +1,3 @@
-main directory
+#!/bin/bash
+pwd
 
