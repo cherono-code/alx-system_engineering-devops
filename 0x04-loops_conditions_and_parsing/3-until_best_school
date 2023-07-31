@@ -2,7 +2,8 @@
 #until loop script
 
 str="Best School"
-until [$str -gt 10]; do
-echo "$str"
-((str++))
+until [$str -gt 10];
+do
+	echo "$str"
+	((str++))
 done
