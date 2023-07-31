@@ -2,9 +2,10 @@
 #display Best School 10 times
 
 str = "Best School"
-count = 0
+count = 1
 
-while (count -lt 10); do
+while (count -le 10);
+do
 echo "$str"
 ((count++))
 done
