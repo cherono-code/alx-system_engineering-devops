@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #display Best School 10 times
 
-str = "Best School"
+str="Best School"
 count = 1
 
 while (count -le 10);
