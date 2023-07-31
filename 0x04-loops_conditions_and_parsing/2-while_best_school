@@ -6,6 +6,6 @@ count = 1
 
 while (count -le 10);
 do
-echo "$str"
-((count++))
+	echo "$str"
+	((count++))
 done
