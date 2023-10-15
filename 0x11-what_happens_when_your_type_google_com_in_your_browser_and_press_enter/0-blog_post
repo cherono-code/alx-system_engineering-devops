@@ -1,0 +1,30 @@
+Navigating the Web: Demystifying What Happens When You Type https://www.google.com
+
+As we navigate the vast landscape of the internet, the simple act of typing "https://www.google.com" and pressing Enter initiates a complex and fascinating journey through the intricacies of the web stack. In this post, we'll unravel the layers of this digital odyssey, exploring the key components that come into play to seamlessly deliver the Google homepage to your browser.
+
+DNS Request:
+Our journey begins with a Domain Name System (DNS) request. When you type "https://www.google.com," your browser sends a query to a DNS server to translate the human-readable domain name into the corresponding IP address. This step is crucial for establishing a connection to the right server on the internet.
+
+TCP/IP:
+With the IP address in hand, the Transmission Control Protocol/Internet Protocol (TCP/IP) takes center stage. This suite of communication protocols ensures reliable and efficient data transmission between your device and Google's servers. It governs the way data is broken down, sent, and reassembled across the internet.
+
+Firewall:
+As your data travels through the internet, it encounters firewalls—digital gatekeepers that scrutinize incoming and outgoing traffic. Firewalls play a pivotal role in network security, monitoring and controlling data based on predetermined security rules. They safeguard against unauthorized access and potential threats.
+
+HTTPS/SSL:
+Security takes precedence with the implementation of HTTPS (Hypertext Transfer Protocol Secure) and SSL (Secure Sockets Layer). These protocols encrypt the data exchanged between your browser and Google's servers, ensuring that sensitive information remains confidential and protected from malicious actors.
+
+Load-Balancer:
+To optimize performance and ensure high availability, load balancers come into play. Google, being a colossal web service, employs load balancers that distribute incoming traffic across multiple servers. This not only prevents any single server from being overwhelmed but also enhances the overall responsiveness and reliability of the service.
+
+Web Server:
+As your request reaches Google's servers, it encounters the web server. The web server processes the request, retrieves the necessary resources, and sends back the HTML, CSS, and other assets required to render the Google homepage on your browser.
+
+Application Server:
+For more dynamic web applications, an application server takes charge. It handles the business logic, executes server-side scripts, and interacts with databases. In Google's case, this could involve processing search queries, managing user accounts, and more.
+
+Database:
+Last but not least, databases store and retrieve the vast amount of data that Google handles daily. Whether it's indexing the web, storing user preferences, or logging search history, databases play a crucial role in providing relevant and timely information to users.
+Google
+Google
+google.com
