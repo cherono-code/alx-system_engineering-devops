@@ -1,12 +1,10 @@
-
-You have a captain's log due before 2023-11-12 (in 2 days)! Log it now!
-0x18. Webstack monitoring
+tack monitoring
 DevOps
 SysAdmin
 monitoring
  By: Sylvain Kalache, co-founder at Holberton School
  Weight: 1
- Project over - took place from Nov 8, 2023 6:00 AM to Nov 9, 2023 6:00 AM
+ Project over - took place from Jan 17, 2024 6:00 AM to Jan 18, 2024 6:00 AM
  An auto review will be launched at the deadline
 In a nutshell…
 
@@ -62,9 +60,9 @@ The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 The second line of all your Bash scripts should be a comment explaining what is the script doing
 Your servers
 Name	Username	IP	State	
-240676-web-01	ubuntu	52.87.154.174	running	
-240676-web-02	ubuntu	54.160.101.222	running	
-240676-lb-01	ubuntu	34.234.193.166	running	
+240676-web-01				
+240676-web-02				
+240676-lb-01				
 Tasks
 0. Sign up for Datadog and install datadog-agent
 mandatory
@@ -114,4 +112,3 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x18-webstack_monitoring
 File: 2-setup_datadog
      
-Copyright © 2023 ALX, All rights reserved.
